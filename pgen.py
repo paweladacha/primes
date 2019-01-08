@@ -1,6 +1,6 @@
 import itertools
 
-def getp3mambo(upto:int,bottom:int=0):
+def getp(upto:int,bottom:int=0):
     # prepare sieve and domain
     top = ((upto+1)//6)+1
     factop = int((top/6)**0.5)+2
