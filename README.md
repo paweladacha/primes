@@ -10,13 +10,13 @@ This package contains various simple tools usefull when working with or research
 - prime_store -->
 
 ## about pgen.py
+[Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) implementation. Mechanics are based on [fastest way to list all primes below n @ stackoverflow](https://stackoverflow.com/questions/2068372/fastest-way-to-list-all-primes-below-n/46635266#46635266). 
+
 ### contents
 - [How it works](#how-it-works)
 - [Output list generation  ](#output-list-generation)
 - [Bottom bound](#bottom-bound)
 - [Further improvements](#further-improvements)
-
-[Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) implementation. Mechanics are based on ["fastest way to list all primes below n" @ stackoverflow](https://stackoverflow.com/questions/2068372/fastest-way-to-list-all-primes-below-n/46635266#46635266). 
 
 #### How it works
 
