@@ -1,3 +1,7 @@
+# primes
+
+This package contains various simple tools usefull when working with or researching prime numbers.
+
 ## contents
 - pgen.py - prime number generator ([Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes))
 *to upload^
