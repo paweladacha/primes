@@ -1,5 +1,8 @@
 ## contents
 - pgen.py - prime number generator ([Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes))
+*to upload^
+- divisors
+- prime_store
 
 ## about
 
